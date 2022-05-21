@@ -1,5 +1,6 @@
 # sql-project-2
 Pam wongkraivet
+
 	Information about your data 
 a.	Why did you choose the data set you working with? 
 -	There’s a lot of accident happened to NYC. Create databases where you can access information is really important. 
